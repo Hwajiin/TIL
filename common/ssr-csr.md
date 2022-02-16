@@ -4,7 +4,7 @@
 
 📎 <a href="https://miracleground.tistory.com/165" target="_blank">SSR과 CSR을 정리해놓은 블로그</a>
 
-## 📎 <a href="https://goodgid.github.io/Server-Side-Rendering-and-Client-Side-Rendering/" target="_blank">좋은 이미지 자료가 있는 블로그</a>
+📎 <a href="https://goodgid.github.io/Server-Side-Rendering-and-Client-Side-Rendering/" target="_blank">좋은 이미지 자료가 있는 블로그</a>
 
 ## 🐾 목차
 
