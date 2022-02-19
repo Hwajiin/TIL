@@ -28,11 +28,15 @@
 
 ### 🎨 프론트엔드
 
-### 🗄 백엔드
+### 🗄 데이터베이스
+
+- <a href="https://github.com/Hwajiin/TIL/blob/main/database/sql-nosql.md">SQL과 NoSQL, ORM과 ODM</a>
 
 ### 👩🏻‍💻 공통
 
 - <a href="https://github.com/Hwajiin/TIL/blob/main/common/restful-api.md">RESTful API</a>
+- <a href="https://github.com/Hwajiin/TIL/blob/main/common/mvc-pattern.md">MVC 패턴</a>
+- <a href="https://github.com/Hwajiin/TIL/blob/main/common/ssr-csr.md">SSR과 CSR</a>
 
 ### 🧠 알고리즘
 
