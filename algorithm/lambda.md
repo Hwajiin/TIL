@@ -32,3 +32,11 @@ sum(1, 2)
 ```
 (lambda x, y: x + y)(1, 2)
 ```
+
+### 3) sort함수에 있어서 람다 함수
+
+```
+sort(key = lambda x: [key로 지정하고 싶은 요소])
+
+sort(key = lambda x: x[1])
+```
