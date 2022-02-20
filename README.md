@@ -41,3 +41,11 @@
 ### 🧠 알고리즘
 
 - <a href="https://github.com/Hwajiin/TIL/blob/main/algorithm/lambda.md">람다함수</a>
+
+### 🐱 git
+
+- <a href="https://github.com/Hwajiin/TIL/blob/main/git/index.md">git이란?</a>
+
+### 🛠 Tools
+
+- <a href="https://github.com/Hwajiin/TIL/blob/main/tools/linux-cli.md">Linux CLI</a>
